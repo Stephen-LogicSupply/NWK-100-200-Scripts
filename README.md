@@ -1,1 +1,1 @@
-Currently provided is a python script that auto-identifies NWK100 NWK200 and connects them to the network.
+Currently provided is a python script that auto-identifies the NWK100 NWK200 cards and connects them to the network.
